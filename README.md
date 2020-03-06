@@ -17,7 +17,7 @@ Unity 2018.1.0f2
 >
 > Scripts
 
-Windows10 环境 Draco 编译步骤 https://igco.xyz/d/14-google-draco 
+Windows10 环境 Draco 编译步骤 [在这里](https://disism.com/game/使用 Google Draco 压缩你的模型/)
 
 - CMake 
 - Windows 10 
@@ -31,9 +31,7 @@ Windows10 环境 Draco 编译步骤 https://igco.xyz/d/14-google-draco
 
 Draco Release （ draco_encoder.exe - 编译后的可执行文件 Windows10 ）
 
-编译成功的可执行文件：https://github.com/iifork/Draco_Unity/releases
-
-[使用方法](https://igco.xyz/d/14-google-draco/8) 
+编译成功的可执行文件：https://github.com/disism/Draco_Unity/releases
 
 CMD: ` draco_encoder.exe `
 
@@ -43,10 +41,3 @@ CMD: ` draco_encoder.exe `
 
 `xxx.obj` 要改成 `xxx.bytes ` 才能被Unity 读取
 
-------
-
-#### **WELCOME**
-
-#### To 	 [IGC - Indie Game Community .](https://igco.xyz/) ( Chinese Community )
-
-[iifork.com](https://iifork.com) ✔
